@@ -33,11 +33,10 @@ function getBotResponse(userMessage) {
         "how are you": "I'm just a bot, but I'm doing well. How about you?",
         "what is your name": "I don't have a name, but you can call me ChatBot.",
         "bye": "Goodbye! Have a great day!",
-        "who created you": "I was created by Marieswaran. Here are some links where you can learn more about them: Instagram: @maries__08, LinkedIn: [Marieswaran](https://www.linkedin.com/in/marieswaran-m).",
-        "who create you": "I was created by Marieswaran. Here are some links where you can learn more about them: Instagram: @maries__08, LinkedIn: [Marieswaran](https://www.linkedin.com/in/marieswaran-m).",
+        "who created you": "I was created by Rohith.
         "comedy": "Why don't scientists trust atoms? Because they make up everything!",
         "are you boy or girl": "No, I am a bot, so please don't take it personally!",
-        "my name is maries": "So what, just leave me alone.",
+        "my name is Rohith": "So what, just leave me alone.",
         "how to study all subject in one night": "Nothing to do, eat a 5 Star and do nothing.",
         "yes your idea is good": "After exam results, your parents might buy you a buffalo as a gift.",
         "you speak too much": "JK just kidding.",
